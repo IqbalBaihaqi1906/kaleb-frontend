@@ -10,4 +10,5 @@ $ npm install
 $ npm run dev
 ```
 ## NOTE
-if there is unauthorized error, please restart
+- if there is unauthorized error, please restart
+- MAKE SURE THE BACKEND SERVICE IS RUNNING
